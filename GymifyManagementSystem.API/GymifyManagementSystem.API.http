@@ -1,0 +1,6 @@
+@GymifyManagementSystem.API_HostAddress = http://localhost:5276
+
+GET {{GymifyManagementSystem.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
